@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Awet Nega
-- 👀 I’m interested in Front-End Development and Data Analysis
+- 👀 I’m  Front-End Developer and former Data Analyst
 - 🌱 I’m currently learning Meta Front-End Development
 - 💞️ I’m looking to collaborate on Web development Projects
 - 📫 You can reach me out awet.nega.6@gmail.com
